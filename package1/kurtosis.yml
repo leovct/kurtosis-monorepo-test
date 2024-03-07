@@ -1,0 +1,4 @@
+name: github.com/leocvct/kurtosis-monorepo-test/package1
+description: |-
+  First Kurtosis package of a monorepo setup.
+replace: {}
